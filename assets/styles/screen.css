@@ -1,0 +1,13 @@
+body{
+	font-family: sans-serifindex;
+}
+
+h1{
+	color:red;
+}
+
+.header{
+    display:flex;
+      align-items: center;
+      justify-content: space-between;
+  }
