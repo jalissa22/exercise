@@ -63,3 +63,8 @@ p{
   justify-content: space-between;
   margin: 0 1rem;
   }
+
+  #colorstrip{
+    height: 0px;
+    border-bottom:solid 2px black;
+}​
